@@ -1,0 +1,11 @@
+#website1 {
+    font-size: 40px;
+}
+.logoinfo{
+    width: 770px;
+    height: 350px;
+}
+
+*  {
+    background-color: aqua;
+}
